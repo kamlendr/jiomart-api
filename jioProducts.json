@@ -1,0 +1,2665 @@
+{
+  "categories": [
+    {
+      "name": "Fruits & Vegetables",
+      "subCat": [
+        {
+          "name": "Fresh Fruits",
+          "id": "fresh-fruits",
+          "brands": [],
+          "types": [
+            { "name": "Mangoes", "id": 1 },
+            { "name": "Citrus Fruits", "id": 2 },
+            { "name": "Others", "id": 3 },
+            { "name": "Apples", "id": 4 },
+            { "name": "Banana", "id": 5 },
+            { "name": "Melons", "id": 6 },
+            { "name": "Chiku (Sapota)", "id": 7 },
+            { "name": "Papaya", "id": 8 },
+            { "name": "Pears", "id": 9 },
+            { "name": "Plums", "id": 10 },
+            { "name": "Pomegranate", "id": 11 }
+          ]
+        },
+        {
+          "name": "Fresh Vegetables",
+          "id": "fresh-vegetables",
+          "brands": [],
+          "types": [
+            { "name": "Gourds", "id": 1 },
+            { "name": "Leafy Vegetables", "id": 2 },
+            { "name": "Root Vegetables", "id": 3 },
+            { "name": "Onion", "id": 4 },
+            { "name": "Beans", "id": 6 },
+            { "name": "Brinjal", "id": 7 },
+            { "name": "Cabbage", "id": 8 },
+            { "name": "Capsicum", "id": 9 },
+            { "name": "Carrot", "id": 10 },
+            { "name": "Cucumber", "id": 11 },
+            { "name": "Drumstick", "id": 12 },
+            { "name": "Okra (Bhindi)", "id": 13 },
+            { "name": "Potato", "id": 14 },
+            { "name": "Tomato", "id": 15 },
+            { "name": "Others", "id": 16 }
+          ]
+        },
+        {
+          "name": "Herbs & Seasonings",
+          "id": "herbs-seasonings",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Exotic Fruits & Vegetables",
+          "id": "exotic-fruits-vegetables",
+          "brands": [],
+          "types": []
+        }
+      ],
+      "id": "fruits-vegetables"
+    },
+    {
+      "name": "Dairy & Bakery",
+      "subCat": [
+        { "name": "Dairy", "id": "dairy", "brands": [], "types": [] },
+        {
+          "name": "Toast & Khari",
+          "id": "toast-khari",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Cakes & Muffins",
+          "id": "cakes-muffins",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Breads and Buns",
+          "id": "breads-and-buns",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Baked Cookies",
+          "id": "baked-cookies",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Bakery Snacks",
+          "id": "bakery-snacks",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Batter & Chutney",
+          "id": "batter-chutney",
+          "brands": [],
+          "types": []
+        },
+        { "name": "Cheese", "id": "cheese", "brands": [], "types": [] },
+        { "name": "Ghee", "id": "ghee", "brands": [], "types": [] },
+        {
+          "name": "Paneer & Tofu",
+          "id": "paneer-tofu",
+          "brands": [],
+          "types": []
+        }
+      ],
+      "id": "dairy-bakery"
+    },
+    {
+      "name": "Staples",
+      "subCat": [
+        {
+          "name": "Atta, Flours & Sooji",
+          "id": "atta-flours-sooji",
+          "brands": [
+            {
+              "name": "Nutrapoorna",
+              "id": "1"
+            },
+            {
+              "name": "Others",
+              "id": "28"
+            },
+            {
+              "name": "satyam",
+              "id": "2"
+            },
+            {
+              "name": "Deccan Organic",
+              "id": "3"
+            },
+            {
+              "name": "24 Mantra",
+              "id": "4"
+            },
+            {
+              "name": "Bhagirathi",
+              "id": "5"
+            },
+            {
+              "name": "Brahmins",
+              "id": "6"
+            },
+            {
+              "name": "Madam",
+              "id": "7"
+            },
+            {
+              "name": "Private Label",
+              "id": "8"
+            },
+            {
+              "name": "Pro Nature",
+              "id": "9"
+            },
+            {
+              "name": "Uttam",
+              "id": "10"
+            },
+            {
+              "name": "Gajanann",
+              "id": "11"
+            },
+            {
+              "name": "Gajanann Foods",
+              "id": "12"
+            },
+            {
+              "name": "Good Life",
+              "id": "13"
+            },
+            {
+              "name": "I Love Staples",
+              "id": "14"
+            },
+            {
+              "name": "Organic Tattva",
+              "id": "15"
+            },
+            {
+              "name": "Aashirvaad",
+              "id": "16"
+            },
+            {
+              "name": "K-Pra",
+              "id": "17"
+            },
+            {
+              "name": "Fortune",
+              "id": "18"
+            },
+            {
+              "name": "Nature Fresh",
+              "id": "19"
+            },
+            {
+              "name": "Praakritik",
+              "id": "20"
+            },
+            {
+              "name": "Gaay",
+              "id": "21"
+            },
+            {
+              "name": "Gaay Chhap",
+              "id": "22"
+            },
+            {
+              "name": "MeraKisan",
+              "id": "23"
+            },
+            {
+              "name": "Patanjali",
+              "id": "24"
+            },
+            {
+              "name": "Pillsbury",
+              "id": "25"
+            },
+            {
+              "name": "shriram",
+              "id": "26"
+            },
+            {
+              "name": "viraki",
+              "id": "27"
+            }
+          ],
+          "types": [
+            {
+              "name": "Speciality Flour",
+              "id": 1
+            },
+            {
+              "name": "Atta",
+              "id": 2
+            },
+            {
+              "name": "Rawa/Sooji",
+              "id": 3
+            },
+            {
+              "name": "Daliya",
+              "id": 4
+            },
+            {
+              "name": "Rice Atta, Rice Flour",
+              "id": 5
+            },
+            {
+              "name": "Besan",
+              "id": 6
+            },
+            {
+              "name": "Maida",
+              "id": 7
+            },
+            {
+              "name": "Idli Rava",
+              "id": 8
+            },
+            {
+              "name": "Other Atta",
+              "id": 9
+            }
+          ]
+        },
+        {
+          "name": "Dals & Pulses",
+          "id": "dals-pulses",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Rice & Rice Products",
+          "id": "rice-rice-products",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Edible Oils",
+          "id": "edible-oils",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Masalas & Spices",
+          "id": "masalas-spices",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Salt, Sugar & Jaggery",
+          "id": "salt-sugar-jaggery",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Soya Products, Wheat & Other Grains",
+          "id": "soya-products-wheat-other-grains",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Dry Fruits & Nuts",
+          "id": "dry-fruits-nuts",
+          "brands": [],
+          "types": []
+        }
+      ],
+      "id": "staples"
+    },
+    {
+      "name": "Snacks & Branded Foods",
+      "subCat": [
+        {
+          "name": "Biscuits & Cookies",
+          "id": "biscuits-cookies",
+          "brands": [
+            {
+              "name": "Britannia",
+              "id": "1"
+            },
+            {
+              "name": "Parle",
+              "id": "2"
+            },
+            {
+              "name": "Dukes",
+              "id": "3"
+            },
+            {
+              "name": "Unibic",
+              "id": "4"
+            },
+            {
+              "name": "Oreo",
+              "id": "5"
+            },
+            {
+              "name": "Pickwick",
+              "id": "6"
+            },
+            {
+              "name": "Palekar",
+              "id": "7"
+            },
+            {
+              "name": "Chakote",
+              "id": "8"
+            },
+            {
+              "name": "Mcvitie`s",
+              "id": "9"
+            },
+            {
+              "name": "Mcvities",
+              "id": "10"
+            },
+            {
+              "name": "Open Secret",
+              "id": "11"
+            },
+            {
+              "name": "Bournvita",
+              "id": "12"
+            },
+            {
+              "name": "Jahagirdar",
+              "id": "13"
+            },
+            {
+              "name": "McVitie's",
+              "id": "14"
+            },
+            {
+              "name": "Tasty Treat",
+              "id": "15"
+            },
+            {
+              "name": "Cadbury",
+              "id": "16"
+            },
+            {
+              "name": "Jahagirdar Nagali",
+              "id": "17"
+            },
+            {
+              "name": "Parle Monaco",
+              "id": "18"
+            },
+            {
+              "name": "Parle-G",
+              "id": "19"
+            },
+            {
+              "name": "Samrat",
+              "id": "20"
+            },
+            {
+              "name": "Sunfeast",
+              "id": "21"
+            }
+          ],
+          "types": [
+            {
+              "name": "Cream Biscuits & Wafers",
+              "id": "1"
+            },
+            {
+              "name": "Cookies",
+              "id": "2"
+            },
+            {
+              "name": "Marie, Health, Digestive",
+              "id": "3"
+            },
+            {
+              "name": "Other Biscuits",
+              "id": "4"
+            },
+            {
+              "name": "Glucose & Milk Biscuits",
+              "id": "5"
+            },
+            {
+              "name": "Salted Biscuits",
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "name": "Noodle, Pasta, Vermicelli",
+          "id": "noodle-pasta-vermicelli",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Breakfast Cereals",
+          "id": "breakfast-cereals",
+          "brands": [
+            {
+              "name": "Kellogg's",
+              "id": 1
+            },
+            {
+              "name": "Oateo",
+              "id": 2
+            },
+            {
+              "name": "True Elements",
+              "id": 3
+            },
+            {
+              "name": "Zerobeli",
+              "id": 4
+            },
+            {
+              "name": "Bagrry's",
+              "id": 5
+            },
+            {
+              "name": "Saffola",
+              "id": 6
+            },
+            {
+              "name": "Ritebite",
+              "id": 7
+            },
+            {
+              "name": "Soulfull",
+              "id": 8
+            },
+            {
+              "name": "Kwality",
+              "id": 9
+            },
+            {
+              "name": "Healthy Life",
+              "id": 10
+            },
+            {
+              "name": "NesPlus",
+              "id": 11
+            },
+            {
+              "name": "Praakritik",
+              "id": 12
+            },
+            {
+              "name": "Baggry's",
+              "id": 13
+            },
+            {
+              "name": "Disano",
+              "id": 14
+            },
+            {
+              "name": "Nature Valley",
+              "id": 15
+            },
+            {
+              "name": "Patanjali",
+              "id": 16
+            },
+            {
+              "name": "Quaker",
+              "id": 17
+            },
+            {
+              "name": "Unibic",
+              "id": 18
+            }
+          ],
+          "types": [
+            { "name": "Flakes", "id": 1 },
+            { "name": "Oats", "id": 2 },
+            { "name": "Muesli", "id": 3 },
+            { "name": "Granola & Cereal Bars", "id": 4 }
+          ]
+        },
+        {
+          "name": "Snacks & Namkeen",
+          "id": "snacks-namkeen",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Chocolates & Candies",
+          "id": "chocolates-candies",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Ready To Cook & Eat",
+          "id": "ready-to-cook-eat",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Frozen Veggies & Snacks",
+          "id": "frozen-veggies-snacks",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Spreads, Sauces, Ketchup",
+          "id": "spreads-sauces-ketchup",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Indian Sweets",
+          "id": "indian-sweets",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Pickles & Chutney",
+          "id": "pickles-chutney",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Extracts & Flavouring",
+          "id": "extracts-flavouring",
+          "brands": [],
+          "types": []
+        }
+      ],
+      "id": "snacks-branded-foods"
+    },
+    {
+      "name": "Beverages",
+      "subCat": [
+        {
+          "name": "Tea",
+          "id": "tea",
+          "brands": [
+            { "name": "Twinings", "id": 1 },
+            { "name": "Tetley", "id": 2 },
+            { "name": "Society", "id": 3 },
+            { "name": "Lipton", "id": 4 },
+            { "name": "Red Label", "id": 5 },
+            { "name": "Tea Culture Of The World", "id": 6 },
+            { "name": "Girnar", "id": 7 },
+            { "name": "Sprig", "id": 8 },
+            { "name": "Wagh Bakri", "id": 9 },
+            { "name": "Aarambh", "id": 10 },
+            { "name": "Ecovalley", "id": 11 },
+            { "name": "Tata Tea", "id": 12 },
+            { "name": "Marvel", "id": 13 },
+            { "name": "Taj Mahal", "id": 14 },
+            { "name": "Amar Tea", "id": 15 },
+            { "name": "Dabur", "id": 16 },
+            { "name": "Taaza", "id": 17 },
+            { "name": "Tata Tea Gold", "id": 18 },
+            { "name": "Tata Tea Premium", "id": 19 },
+            { "name": "Te-A-Me", "id": 20 },
+            { "name": "Smithsonian", "id": 21 },
+            { "name": "Tata Agni", "id": 22 },
+            { "name": "Twinnings", "id": 23 }
+          ],
+          "types": [
+            { "name": "Leaf & Dust Tea", "id": 1 },
+            { "name": "Gourmet Tea & Tea Bags", "id": 2 },
+            { "name": "Exotic & Flavoured Tea", "id": 3 }
+          ]
+        },
+        { "name": "Coffee", "id": "coffee", "brands": [], "types": [] },
+        {
+          "name": "Fruit juices",
+          "id": "fruit-juices",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Energy & Soft Drinks",
+          "id": "energy-soft-drinks",
+          "brands": [
+            { "name": "Nature Day", "id": 1 },
+            { "name": "Mapro", "id": 2 },
+            { "name": "Tang", "id": 3 },
+            { "name": "Kingfisher", "id": 4 },
+            { "name": "Thums Up", "id": 5 },
+            { "name": "Bisleri", "id": 6 },
+            { "name": "Pepsi", "id": 7 },
+            { "name": "7Up", "id": 8 },
+            { "name": "Coca Cola", "id": 9 },
+            { "name": "Dabur", "id": 10 },
+            { "name": "Fruitomans", "id": 11 },
+            { "name": "Glucon-D", "id": 12 },
+            { "name": "Kokan Raj", "id": 13 },
+            { "name": "Sprite", "id": 14 },
+            { "name": "fast&up", "id": 15 },
+            { "name": "7 Up", "id": 16 },
+            { "name": "Fanta", "id": 17 },
+            { "name": "Fast & Up", "id": 18 },
+            { "name": "Glucon D", "id": 19 },
+            { "name": "Kashmira", "id": 20 },
+            { "name": "Mirinda", "id": 21 },
+            { "name": "Monster", "id": 22 },
+            { "name": "Rasna", "id": 23 },
+            { "name": "Red Bull", "id": 24 },
+            { "name": "Rooh Afza", "id": 25 },
+            { "name": "Sams", "id": 26 },
+            { "name": "Tabasco", "id": 27 }
+          ],
+          "types": [
+            { "name": "Cold Drinks", "id": 1 },
+            { "name": "Energy Drinks", "id": 2 },
+            { "name": "Syrups, Powders, & Mixes", "id": 3 }
+          ]
+        },
+        {
+          "name": "Health Drink & Supplement",
+          "id": "health-drink-supplement",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Soda & Flavoured Water",
+          "id": "soda-flavoured-water",
+          "brands": [],
+          "types": []
+        }
+      ],
+      "id": "beverages"
+    },
+    {
+      "name": "Personal Care",
+      "subCat": [
+        { "name": "Hair Care", "id": "hair-care", "brands": [], "types": [] },
+        { "name": "Oral Care", "id": "oral-care", "brands": [], "types": [] },
+        { "name": "Skin Care", "id": "skin-care", "brands": [], "types": [] },
+        {
+          "name": "Bath & Hand Wash",
+          "id": "bath-hand-wash",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Body Wash & Bathing Accessories",
+          "id": "body-wash-bathing-accessories",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Feminine Hygiene",
+          "id": "feminine-hygiene",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Men's Grooming",
+          "id": "men's-grooming",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Deo & Fragrances",
+          "id": "deo-fragrances",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Health & Wellness",
+          "id": "health-wellness",
+          "brands": [],
+          "types": []
+        },
+        { "name": "Makeup", "id": "makeup", "brands": [], "types": [] },
+        {
+          "name": "Covid Essentials",
+          "id": "covid-essentials",
+          "brands": [],
+          "types": []
+        }
+      ],
+      "id": "personal-care"
+    },
+    {
+      "name": "Home Care",
+      "subCat": [
+        { "name": "Detergents", "id": "detergents", "brands": [], "types": [] },
+        { "name": "Dishwash", "id": "dishwash", "brands": [], "types": [] },
+        {
+          "name": "All Purpose Cleaners",
+          "id": "all-purpose-cleaners",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Fresheners & Repellents",
+          "id": "fresheners-repellents",
+          "brands": [],
+          "types": []
+        },
+        { "name": "Shoe Care", "id": "shoe-care", "brands": [], "types": [] },
+        {
+          "name": "Pet Supplies",
+          "id": "pet-supplies",
+          "brands": [],
+          "types": []
+        }
+      ],
+      "id": "home-care"
+    },
+    {
+      "name": "Baby Care",
+      "subCat": [
+        {
+          "name": "Baby Grooming",
+          "id": "baby-grooming",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Baby Bath & Hygiene",
+          "id": "baby-bath-hygiene",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Diapers & Wipes",
+          "id": "diapers-wipes",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Baby Food & Formula",
+          "id": "baby-food-formula",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Health & Wellness",
+          "id": "health-wellness",
+          "brands": [],
+          "types": []
+        }
+      ],
+      "id": "baby-care"
+    },
+    {
+      "name": "Home & Kitchen",
+      "subCat": [
+        {
+          "name": "Pooja Needs",
+          "id": "pooja-needs",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Disposables",
+          "id": "disposables",
+          "brands": [],
+          "types": []
+        },
+        { "name": "Electrical", "id": "electrical", "brands": [], "types": [] },
+        {
+          "name": "Mops, Brushes & Scrubs",
+          "id": "mops-brushes-scrubs",
+          "brands": [],
+          "types": []
+        },
+        { "name": "Furnishing", "id": "furnishing", "brands": [], "types": [] },
+        { "name": "Stationery", "id": "stationery", "brands": [], "types": [] },
+        {
+          "name": "Home Appliances",
+          "id": "home-appliances",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Toys, Games & Fitness",
+          "id": "toys-games-fitness",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Kitchenware",
+          "id": "kitchenware",
+          "brands": [],
+          "types": []
+        },
+        { "name": "Dining", "id": "dining", "brands": [], "types": [] },
+        {
+          "name": "Bathroom & Laundry Accessories",
+          "id": "bathroom-laundry-accessories",
+          "brands": [],
+          "types": []
+        },
+        {
+          "name": "Bags & Travel Luggage",
+          "id": "bags-travel-luggage",
+          "brands": [],
+          "types": []
+        }
+      ],
+      "id": "home-kitchen"
+    }
+  ],
+  "products": [
+    {
+      "title": "Thums Up 600 ml",
+      "image": "https://www.jiomart.com/images/product/150x150/490001803/thums-up-600-ml-0-20210428.jpg",
+      "discount": 21,
+      "cost": 30,
+      "mrp": 38,
+      "id": 1,
+      "type": 1,
+      "brand": 5,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Sprite 600 ml",
+      "image": "https://www.jiomart.com/images/product/150x150/490001800/sprite-600-ml-0-20210428.jpg",
+      "discount": 21,
+      "cost": 30,
+      "mrp": 38,
+      "id": 2,
+      "type": 1,
+      "brand": 14,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Thums Up 1.25 L",
+      "image": "https://www.jiomart.com/images/product/150x150/490375756/thums-up-1-25-l-0-20210428.jpg",
+      "discount": 7,
+      "cost": 60.45,
+      "mrp": 65,
+      "id": 3,
+      "type": 1,
+      "brand": 5,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Monster Energy Drink 350 ml (Can)",
+      "image": "https://www.jiomart.com/images/product/150x150/491053276/monster-energy-drink-350-ml-can-0-20201021.jpg",
+      "discount": 25,
+      "cost": 82.5,
+      "mrp": 110,
+      "id": 4,
+      "type": 2,
+      "brand": 22,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Coca Cola 300 ml (Can)",
+      "image": "https://www.jiomart.com/images/product/150x150/490809341/coca-cola-300-ml-can-0-20200723.jpg",
+      "discount": 7,
+      "cost": 37.2,
+      "mrp": 40,
+      "id": 5,
+      "type": 1,
+      "brand": 9,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Thums Up 300 ml (Can)",
+      "image": "https://www.jiomart.com/images/product/150x150/490809342/thums-up-300-ml-can-0-20201022.jpg",
+      "discount": 7,
+      "cost": 33.48,
+      "mrp": 36,
+      "id": 6,
+      "type": 1,
+      "brand": 5,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Thums Up 250 ml",
+      "image": "https://www.jiomart.com/images/product/150x150/491297310/thums-up-250-ml-0-20210511.jpg",
+      "discount": 7,
+      "cost": 18.6,
+      "mrp": 20,
+      "id": 7,
+      "type": 1,
+      "brand": 5,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Sprite 300 ml (Can)",
+      "image": "https://www.jiomart.com/images/product/150x150/490809343/sprite-300-ml-can-0-20201022.jpg",
+      "discount": 7,
+      "cost": 37.2,
+      "mrp": 40,
+      "id": 8,
+      "type": 1,
+      "brand": 14,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Coca Cola 250 ml",
+      "image": "https://www.jiomart.com/images/product/150x150/491293224/coca-cola-250-ml-0-20210511.jpg",
+      "discount": 7,
+      "cost": 18.6,
+      "mrp": 20,
+      "id": 9,
+      "type": 1,
+      "brand": 9,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Fanta Orange 300 ml",
+      "image": "https://www.jiomart.com/images/product/150x150/490809344/fanta-orange-300-ml-0-20200723.jpg",
+      "discount": 7,
+      "cost": 37.2,
+      "mrp": 40,
+      "id": 10,
+      "type": 1,
+      "brand": 17,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Pepsi 2 L",
+      "image": "https://www.jiomart.com/images/product/150x150/490004176/pepsi-2-l-0-20201027.jpg",
+      "discount": 33,
+      "cost": 60,
+      "mrp": 90,
+      "id": 11,
+      "type": 1,
+      "brand": 7,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Hamdard Roohafza Sharbat Syrup 750 ml",
+      "image": "https://www.jiomart.com/images/product/150x150/490057054/hamdard-roohafza-sharbat-syrup-750-ml-0-20210312.jpg",
+      "discount": 10,
+      "cost": 135,
+      "mrp": 150,
+      "id": 12,
+      "type": 3,
+      "brand": 25,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Mirinda Orange 2.25 L",
+      "image": "https://www.jiomart.com/images/product/150x150/490004177/mirinda-orange-2-25-l-0-20210430.jpg",
+      "discount": 33,
+      "cost": 60,
+      "mrp": 90,
+      "id": 13,
+      "type": 1,
+      "brand": 21,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "7Up 2 L",
+      "image": "https://www.jiomart.com/images/product/150x150/490005200/7up-2-l-0-20210118.jpg",
+      "discount": 30,
+      "cost": 63,
+      "mrp": 90,
+      "id": 14,
+      "type": 1,
+      "brand": 16,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "7 Up 750 ml",
+      "image": "https://www.jiomart.com/images/product/150x150/491208777/7-up-750-ml-0-20210311.JPG",
+      "discount": 20,
+      "cost": 32,
+      "mrp": 40,
+      "id": 15,
+      "type": 1,
+      "brand": 16,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Pepsi 750 ml",
+      "image": "https://www.jiomart.com/images/product/150x150/491208775/pepsi-750-ml-0-20200723.jpg",
+      "discount": 20,
+      "cost": 32,
+      "mrp": 40,
+      "id": 16,
+      "type": 1,
+      "brand": 7,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Rasna Insta Orange Instant Drink Powder 750 g (Pouch)",
+      "image": "https://www.jiomart.com/images/product/150x150/490023055/rasna-insta-orange-instant-drink-powder-750-g-pouch-0-20210226.jpg",
+      "discount": 50,
+      "cost": 120,
+      "mrp": 240,
+      "id": 17,
+      "type": 3,
+      "brand": 23,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Red Bull Energy Drink 250 ml (Can)",
+      "image": "https://www.jiomart.com/images/product/150x150/490023055/rasna-insta-orange-instant-drink-powder-750-g-pouch-0-20210226.jpg",
+      "discount": 10,
+      "cost": 103,
+      "mrp": 115,
+      "id": 18,
+      "type": 2,
+      "brand": 24,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Tang Orange Instant Drink Mix 500 g",
+      "image": "https://www.jiomart.com/images/product/150x150/490004157/tang-orange-instant-drink-mix-500-g-0-20210301.jpg",
+      "discount": 14,
+      "cost": 115.55,
+      "mrp": 135,
+      "id": 19,
+      "type": 3,
+      "brand": 3,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Pepsi 250 ml (Can)",
+      "image": "https://www.jiomart.com/images/product/150x150/490916734/pepsi-250-ml-can-0-20200723.jpg",
+      "discount": 26,
+      "cost": 22,
+      "mrp": 30,
+      "id": 20,
+      "type": 1,
+      "brand": 7,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "7 Up 250 ml (Can)",
+      "image": "https://www.jiomart.com/images/product/150x150/490916737/7-up-250-ml-can-0-20210510.jpg",
+      "discount": 26,
+      "cost": 22,
+      "mrp": 30,
+      "id": 21,
+      "type": 1,
+      "brand": 16,
+      "cat": "energy-soft-drinks",
+      "mainCat": "beverages",
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Quaker Oats 1.5 kg",
+      "image": "https://www.jiomart.com/images/product/150x150/490850761/quaker-oats-1-5-kg-0-20210421.jpg",
+      "discount": 23,
+      "cost": 200,
+      "mrp": 260,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 2,
+      "brand": 17,
+      "id": 22,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Bagrry's White Oats 1 kg",
+      "image": "https://www.jiomart.com/images/product/150x150/490007571/bagrry-s-white-oats-1-kg-0-20210526.jpg",
+      "discount": 26,
+      "cost": 140,
+      "mrp": 190,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 2,
+      "brand": 5,
+      "id": 23,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Chocos Fills 250 g",
+      "image": "https://www.jiomart.com/images/product/150x150/491375969/kellogg-s-chocos-fills-250-g-0-20210416.jpg",
+      "discount": 7,
+      "cost": 162.75,
+      "mrp": 175,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 1,
+      "id": 24,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Corn Flakes 875 g",
+      "image": "https://www.jiomart.com/images/product/150x150/491126713/kellogg-s-corn-flakes-875-g-0-20200930.jpg",
+      "discount": 27,
+      "cost": 225,
+      "mrp": 310,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 1,
+      "id": 25,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Fruit & Nut Crunchy Muesli 750 g",
+      "image": "https://www.jiomart.com/images/product/150x150/491409955/kellogg-s-fruit-nut-crunchy-muesli-750-g-0-20210414.jpg",
+      "discount": 14,
+      "cost": 369,
+      "mrp": 430,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 3,
+      "brand": 1,
+      "id": 26,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Nuts Delight Muesli 750 g",
+      "image": "https://www.jiomart.com/images/product/150x150/491409954/kellogg-s-nuts-delight-muesli-750-g-0-20210414.jpg",
+      "discount": 19,
+      "cost": 335,
+      "mrp": 415,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 3,
+      "brand": 1,
+      "id": 27,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Bagrry's Choco+ With 3 Great Grains 1.2 kg",
+      "image": "https://www.jiomart.com/images/product/150x150/491419483/bagrry-s-choco-with-3-great-grains-1-2-kg-0-20210526.jpg",
+      "discount": 50,
+      "cost": 240,
+      "mrp": 480,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 5,
+      "id": 28,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Bagrry's Original & Healthier Cornflakes Plus 800 g (Get +80 g Extra)",
+      "image": "https://www.jiomart.com/images/product/150x150/491379262/bagrry-s-original-healthier-cornflakes-plus-800-g-get-80-g-extra-0-20210106.jpg",
+      "discount": 50,
+      "cost": 165,
+      "mrp": 330,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 5,
+      "id": 29,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Moons & Stars Chocos Cereal 1.2 kg",
+      "image": "https://www.jiomart.com/images/product/150x150/491586164/kellogg-s-moons-stars-chocos-cereal-1-2-kg-0-20210416.jpg",
+      "discount": 40,
+      "cost": 379,
+      "mrp": 640,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 1,
+      "id": 30,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Almonds & Cranberries Crunchy Granola 460 g",
+      "image": "https://www.jiomart.com/images/product/150x150/491469490/kellogg-s-almonds-cranberries-crunchy-granola-460-g-0-20210421.jpg",
+      "discount": 7,
+      "cost": 306.9,
+      "mrp": 330,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 3,
+      "brand": 1,
+      "id": 31,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Healthy Life Corn Flakes 250 g (Pack of 2)",
+      "image": "https://www.jiomart.com/images/product/150x150/491089444/healthy-life-corn-flakes-250-g-pack-of-2-0-20201215.jpg",
+      "discount": "",
+      "cost": 99,
+      "mrp": "",
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 10,
+      "id": 32,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Healthy Life Choco Flakes 350 g (Pack of 2)",
+      "image": "https://www.jiomart.com/images/product/150x150/491282475/healthy-life-choco-flakes-350-g-pack-of-2-0-20201215.jpg",
+      "discount": "",
+      "cost": 189,
+      "mrp": "",
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 10,
+      "id": 33,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Chocos 1.2 kg",
+      "image": "https://www.jiomart.com/images/product/150x150/491168004/kellogg-s-chocos-1-2-kg-0-20210414.jpg",
+      "discount": 20,
+      "cost": 375,
+      "mrp": 470,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 1,
+      "id": 34,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Healthy Life Chocos Assorted Pack 26 g (Pack of 6)",
+      "image": "https://www.jiomart.com/images/product/150x150/491586031/healthy-life-chocos-assorted-pack-26-g-pack-of-6-0-20201215.jpg",
+      "discount": 18,
+      "cost": 49,
+      "mrp": 60,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 10,
+      "id": 35,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Healthy Life Corn Flakes 875 g",
+      "image": "https://www.jiomart.com/images/product/150x150/491238103/healthy-life-corn-flakes-875-g-0-20201207.jpg",
+      "discount": 50,
+      "cost": 145,
+      "mrp": 290,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 10,
+      "id": 36,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Corn Flakes 1.2 kg",
+      "image": "https://www.jiomart.com/images/product/150x150/491586426/kellogg-s-corn-flakes-1-2-kg-0-20210218.jpg",
+      "discount": 17,
+      "cost": 349,
+      "mrp": 425,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 1,
+      "id": 37,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Saffola Oats 1 kg",
+      "image": "https://www.jiomart.com/images/product/150x150/490710232/saffola-oats-1-kg-0-20210415.jpg",
+      "discount": 10,
+      "cost": 186.3,
+      "mrp": 207,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 2,
+      "brand": 6,
+      "id": 38,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Nuts Delight Muesli 500 g",
+      "image": "https://www.jiomart.com/images/product/150x150/490478298/kellogg-s-nuts-delight-muesli-500-g-0-20200930.jpg",
+      "discount": 7,
+      "cost": 292.95,
+      "mrp": 315,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 3,
+      "brand": 1,
+      "id": 39,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Kellogg's Chocos 375 g",
+      "image": "https://www.jiomart.com/images/product/150x150/490005266/kellogg-s-chocos-375-g-0-20200930.jpg",
+      "discount": 7,
+      "cost": 158.1,
+      "mrp": 170,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 1,
+      "brand": 1,
+      "id": 40,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+    {
+      "title": "Saffola Peppy Tomato Instant Masala Oats 500 g",
+      "image": "https://www.jiomart.com/images/product/150x150/491420619/saffola-peppy-tomato-instant-masala-oats-500-g-0-20201201.jpg",
+      "discount": 12,
+      "cost": 170,
+      "mrp": 195,
+      "mainCat": "snacks-branded-foods",
+      "cat": "breakfast-cereals",
+      "type": 2,
+      "brand": 6,
+      "id": 41,
+      "originCountry": "India",
+      "description": "Vivamus ultricies, augue ac viverra suscipit, justo eros iaculis ex, sed lacinia odio nunc a arcu. Donec enim odio, pulvinar a efficitur vitae, tincidunt sit amet libero. Quisque faucibus sed lectus id congue. Suspendisse facilisis sollicitudin faucibus. Integer dapibus, justo a semper dignissim, massa risus feugiat augue, quis cursus nulla lectus bibendum orci. Nullam dignissim, sapien non convallis mollis, lectus lectus dignissim eros, a mollis dui diam quis est. Etiam tempor ut sem a egestas.",
+      "feature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare non mauris eu dictum. Ut tempus urna a ornare porta. Cras rhoncus mattis massa quis tristique."
+    },
+
+    {
+      "id": 42,
+      "title": "Orange imported 1 kg",
+      "cost": 109,
+      "discount": 20,
+      "image": "https://www.jiomart.com/images/product/150x150/590000025/orange-imported-1-kg-0-20201118.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "South Africa",
+      "description": "Orange comes from the Citrus family that is low on Calories and is highly nutritious. It is rich in Vitamic C that prevents Cancer, Diabetes, Heart diseases, controls Blood Pressure and enhances skin health. Apart from Vitamin C, Oranges are also rich in Thiamin, Folate, Fiber, Potassium and Calcium. Add it your diet to improve heart, liver, skin and eye health. Buy Orange Imported 1 kg online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 136.25,
+      "type": 3,
+      "brand": 0
+    },
+    {
+      "id": 43,
+      "title": "Alphonso Mango 6 pcs",
+      "cost": 110,
+      "discount": 40,
+      "image": "https://www.jiomart.com/images/product/150x150/590002403/alphonso-mango-6-pcs-box-approx-1300-g-1500-g-0-20210304.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Often referred as The King of fruits Mango is a juicy, nutrition-rich stone fruit with exclusive fragrance, flavour, varieties and health enhancing benefits. It is rich in Fiber, Antioxidants, Vitamins, Minerals and Poly-Phenolic Falvonoid. It prevents the severe risks of Cancer and Heart diseases. You can consume it in the form of Smoothies, Desserts, Shakes, Juices or chopped, sliced pieces. Buy Alphonso Mango 6 pcs (Box) (Approx 1300 g - 1500 g) online now",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 183.33,
+      "type": 1,
+      "brand": 0
+    },
+    {
+      "id": 44,
+      "title": "Mango Kesar 4 pcs",
+      "cost": 111,
+      "discount": 10,
+      "image": "https://www.jiomart.com/images/product/150x150/590309512/mango-kesar-4-pcs-box-approx-800-g-1200-g-0-20210422.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Often referred as The King of fruits, Mango is a juicy, nutrition-rich stone fruit with exclusive fragrance, flavour, varieties and health enhancing benefits. It is rich in Fiber, Antioxidants, Vitamins, Minerals and Poly-Phenolic Falvonoid. It prevents the severe risks of Cancer and Heart diseases. You can consume it in the form of Smoothies, Desserts, Shakes, Juices or chopped, sliced pieces. Buy Mango Kesar 4 pcs Box (Approx 800 g-1200 g) online now",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 123.33,
+      "type": 1,
+      "brand": 0
+    },
+    {
+      "id": 45,
+      "title": "Musk Melon 1 kg",
+      "cost": 112,
+      "discount": "",
+      "image": "https://www.jiomart.com/images/product/150x150/590000051/musk-melon-1-kg-0-20201118.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "The intense summer heat weakens our digestive system. While we all wait for the King of fruits, there's no denying that Musk Melon has its fair share too. Besides being an excellent summer cooler, Musk Melons are good for eyesight, are dense with nutrients and improves skin health. If you are someone dealing with hair loss or indigestion, then Musk Melon is your fruit. It boosts immunity too. Buy Musk Melon 1 kg online now",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": "",
+      "type": 6,
+      "brand": 0
+    },
+    {
+      "id": 46,
+      "title": "Mango Badami 4 pcs",
+      "cost": 113,
+      "discount": 10,
+      "image": "https://www.jiomart.com/images/product/150x150/590177428/mango-badami-4-pcs-0-20210406.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Often referred to as The King of fruits, Mango is a juicy, nutrition-rich stone fruit with exclusive fragrance, flavour, varieties and health enhancing benefits. It is rich in Fiber, Antioxidants, Vitamins, Minerals and Poly-Phenolic Flavonoid. It prevents the severe risks of Cancer and Heart diseases. You can consume it in the form of Smoothies, Desserts, Shakes, Juices or chopped, sliced pieces. Buy Mango Badami 4 pcs (Approx 1200 g-1400 g) online now",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 125.56,
+      "type": 1,
+      "brand": 0
+    },
+    {
+      "id": 47,
+      "title": "Watermelon Kiran 1 pc",
+      "cost": 114,
+      "discount": "",
+      "image": "https://www.jiomart.com/images/product/150x150/590041413/watermelon-kiran-1-pc-0-20201009.jpg",
+      "feature": "Packed With nutrients",
+      "originCountry": "India",
+      "description": "Orange comes from the Citrus family that is low on Calories and is highly nutritious. It is rich in Vitamic C that prevents Cancer, Diabetes, Heart diseases, controls Blood Pressure and enhances skin health. Apart from Vitamin C, Oranges are also rich in Thiamin, Folate, Fiber, Potassium and Calcium. Add it your diet to improve heart, liver, skin and eye health. Buy Orange Imported 1 kg online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": "",
+      "type": 6,
+      "brand": 0
+    },
+    {
+      "id": 48,
+      "title": "Pears Green Imported 3 pcs",
+      "cost": 115,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/590040932/pears-imported-green-3-pcs-pack-0-20201031.jpg",
+      "feature": "Packed with nutrients",
+      "originCountry": "South Africa",
+      "description": "pears comes from the Citrus family that is low on Calories and is highly nutritious. It is rich in Vitamic C that prevents Cancer, Diabetes, Heart diseases, controls Blood Pressure and enhances skin health. Apart from Vitamin C, Oranges are also rich in Thiamin, Folate, Fiber, Potassium and Calcium. Add it your diet to improve heart, liver, skin and eye health. Buy Orange Imported 1 kg online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 121.05,
+      "type": 9,
+      "brand": 0
+    },
+    {
+      "id": 49,
+      "title": "Mango Thotapuri 4 pcs",
+      "cost": 116,
+      "discount": 2,
+      "image": "https://www.jiomart.com/images/product/420x420/590177429/mango-totapuri-4-pcs-0-20210406.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Often referred to as The King of fruits, Mango is a juicy, nutrition-rich stone fruit with exclusive fragrance, flavour, varieties and health enhancing benefits. It is rich in Fiber, Antioxidants, Vitamins, Minerals and Poly-Phenolic Flavonoid. It prevents the severe risks of Cancer and Heart diseases. You can consume it in the form of Smoothies, Desserts, Shakes, Juices or chopped, sliced pieces. Buy Mango Totapuri 4 pcs (Approx 1200 g-1400 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 118.37,
+      "type": 1,
+      "brand": 0
+    },
+    {
+      "id": 50,
+      "title": "Dates Imported",
+      "cost": 117,
+      "discount": 20,
+      "image": "https://www.jiomart.com/images/product/420x420/590002744/dates-imported-400-g-pack-0-20201118.jpg",
+      "feature": "High in fiber",
+      "originCountry": "Iran",
+      "description": "Dates are fruits obtained from the Date Palm Tree. It is grown in Tropical regions of the world and has gained popularity because of its nutritional value. It has nutritions similar to the dried fruits. It contains Fiber, Protein, Potassium, Magnesium, Copper, Manganese and Iron. Buy Dates Imported (Approx 400 g - 500 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 146.25,
+      "type": 3,
+      "brand": 0
+    },
+    {
+      "id": 51,
+      "title": "Apple Royal Gala (4 pcs)",
+      "cost": 118,
+      "discount": 25,
+      "image": "https://www.jiomart.com/images/product/420x420/590001723/apple-royal-gala-4-pcs-0-20201118.jpg",
+      "feature": "Packed with nutrients",
+      "originCountry": "New Zealand",
+      "description": "Apple is one of the most popular fruits worldwide. It is rich in Fiber, Potassium, Vitamin C, Vitamin K, Carbs and Calories. It also consists of soluble fibers that helps in weight loss and maintaining gut health. Eating apples lower the risks of major diseases like Cancer, Diabetes etc. You can include Apples as a part of your diet in the form of Salads, Smoothies, Pies and several other desserts. Buy Apple Royal Gala (4 pcs) (Approx 500 g - 700 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 157.33,
+      "type": 4,
+      "brand": 0
+    },
+    {
+      "id": 52,
+      "title": "Apple Red Delicious 4 pcs (Approx 550 g - 700 g)",
+      "cost": 119,
+      "discount": 40,
+      "image": "https://www.jiomart.com/images/product/420x420/590001721/apple-red-delicious-4-pcs-pack-0-20200806.jpg",
+      "feature": "Packed with nutrients",
+      "originCountry": "United States Of America",
+      "description": "Apple is one of the most popular fruits worldwide. It is rich in Fiber, Potassium, Vitamin C, Vitamin K, Carbs and Calories. It also consists of soluble fibers that helps in weight loss and maintaining gut health. Eating apples lower the risks of major diseases like Cancer, Diabetes etc. You can include Apples as a part of your diet in the form of Salads, Smoothies, Pies and several other desserts. Buy Apple Red Delicious 4 pcs (Approx 550 g - 700 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 198.33,
+      "type": 4,
+      "brand": 0
+    },
+    {
+      "id": 53,
+      "title": "Banana Robusta 6 Pcs (Box) (Approx 800 g - 1100 g)  ",
+      "cost": 120,
+      "discount": "",
+      "image": "https://www.jiomart.com/images/product/420x420/590001285/banana-robusta-6-pcs-box-0-20201126.jpg",
+      "feature": "Packed with nutrients      ",
+      "originCountry": "India",
+      "description": "Bananas are one the world's most appealing fruits. It is consumed both raw and ripe across the world. While the Raw Bananas are popular in the form of chips and pickles, ripe Banana is apprecieted for its high Iron and Energy content. Bananas are rich in Antioxidants and provide protection from free radicals too. It protects against developing of Type 2 Diabetes and reduces swelling too. Buy Banana Robusta 6 Pcs (Box) (Approx 800 g - 1100 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": "",
+      "type": 5,
+      "brand": 0
+    },
+    {
+      "id": 54,
+      "title": "Mosambi 1 kg",
+      "cost": 121,
+      "discount": 20,
+      "image": "https://www.jiomart.com/images/product/420x420/590000448/mosambi-1-kg-0-20201118.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Mosambi comes from the Citrus family that is low on Calories and is highly nutritious. It is rich in Vitamic C that prevents Cancer, Diabetes, Heart diseases, controls Blood Pressure and enhances skin health. Apart from Vitamin C, Mosambi is also rich in Thiamin, Folate, Fiber, Potassium and Calcium. Add it your diet to improve heart, liver, skin and eye health. Buy Mosambi 1 kg online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 151.25,
+      "type": 3,
+      "brand": 0
+    },
+    {
+      "id": 55,
+      "title": "Pineapple Queen 1 pc (Approx 700 g - 1200 g)",
+      "cost": 49,
+      "discount": 4,
+      "image": "https://www.jiomart.com/images/product/420x420/590000070/pineapple-queen-1-pc-0-20201119.jpg",
+      "feature": "Packed with nutrients",
+      "originCountry": "India",
+      "description": "Pineapples are a bundle full of nutrients and goodness. It is bound with compounds that reduces stress and inflammation. Pineapples have been a part of traditional medicines since ages. It is a godsent gift for Liver. As per researches, people who consume Pineapple regularly have significantly lower risk of viral and bacterial infections as well. Boost your immune system during this season of pandemic by having Pineapple regularly. Buy Pineapple Queen 1 pc (Approx 700 g - 1200 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 51.04,
+      "type": 4,
+      "brand": 0
+    },
+    {
+      "id": 56,
+      "title": "Papaya (Each) (Approx 800 g - 1600 g)",
+      "cost": 55,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/590001247/papaya-each-0-20201118.jpg",
+      "feature": "Packed With nutrients",
+      "originCountry": "India",
+      "description": "Papaya is a fruit mainly grown in Tropical regions. They are also known as Papaws or Pawpaws. They are sweet in taste, have a vibrant orangey colour and comes with numerous health benefits. It controls Diabetes, Blood Pressure, reduces the risk of Cancer and Heart disease and fastens wound healing. Buy Papaya (Each) (Approx 800 g - 1600 g) online now. ",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 57.89,
+      "type": 8,
+      "brand": 0
+    },
+    {
+      "id": 57,
+      "title": "Banana Yellaki 12 pcs (Approx 750 g - 1000 g)",
+      "cost": 79,
+      "discount": 10,
+      "image": "https://www.jiomart.com/images/product/420x420/590041069/banana-yellaki-12-pcs-0-20200928.jpg",
+      "feature": "Packed With nutrients",
+      "originCountry": "India",
+      "description": "Bananas are one the world's most appealing fruits. It is consumed both raw and ripe across the world. While the Raw Bananas are popular in the form of chips and pickles, ripe Banana is apprecieted for its high Iron and Energy content. Bananas are rich in Antioxidants and provide protection from free radicals too. It protects against developing of Type 2 Diabetes and reduces swelling too. Buy Banana Yellaki 12 pcs (Approx 750 g - 1000 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 87.78,
+      "type": 5,
+      "brand": 0
+    },
+    {
+      "id": 58,
+      "title": "Apple Granny Smith 4 pcs (Approx 450 g - 600 g) ",
+      "cost": 189,
+      "discount": 40,
+      "image": "https://www.jiomart.com/images/product/420x420/590049344/apple-granny-smith-4-pcs-0-20201026.jpg",
+      "feature": "Packed With nutrients",
+      "originCountry": "Italy",
+      "description": "Apple is one of the most popular fruits worldwide. It is rich in Fiber, Potassium, Vitamin C, Vitamin K, Carbs and Calories. It also consists of soluble fibers that helps in weight loss and maintaining gut health. Eating apples lower the risks of major diseases like Cancer, Diabetes etc. You can include Apples as a part of your diet in the form of Salads, Smoothies, Pies and several other desserts. Buy Apple Granny Smith 4 pcs (Approx 450 g - 600 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 315,
+      "type": 4,
+      "brand": 0
+    },
+    {
+      "id": 59,
+      "title": "Plum Indian 8 Pcs (Pack) (Approx 350 g - 400 g)",
+      "cost": 119,
+      "discount": 19,
+      "image": "https://www.jiomart.com/images/product/420x420/590318013/plum-pack-approx-350-g-400-g-0-20210521.jpg",
+      "feature": "Packed With nutrients",
+      "originCountry": "India",
+      "description": "Apple is one of the most popular fruits worldwide. It is rich in Fiber, Potassium, Vitamin C, Vitamin K, Carbs and Calories. It also consists of soluble fibers that helps in weight loss and maintaining gut health. Eating apples lower the risks of major diseases like Cancer, Diabetes etc. You can include Apples as a part of your diet in the form of Salads, Smoothies, Pies and several other desserts. Buy Apple Granny Smith 4 pcs (Approx 450 g - 600 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 146.91,
+      "type": 10,
+      "brand": 0
+    },
+    {
+      "id": 60,
+      "title": "Peach Indian 6 Pcs (Pack) (Approx 450 g - 500 g)",
+      "cost": 119,
+      "discount": 9,
+      "image": "https://www.jiomart.com/images/product/420x420/590318012/peach-pack-approx-450-g-500-g-0-20210521.jpg",
+      "feature": "Packed With nutrients",
+      "originCountry": "India",
+      "description": "Apple is one of the most popular fruits worldwide. It is rich in Fiber, Potassium, Vitamin C, Vitamin K, Carbs and Calories. It also consists of soluble fibers that helps in weight loss and maintaining gut health. Eating apples lower the risks of major diseases like Cancer, Diabetes etc. You can include Apples as a part of your diet in the form of Salads, Smoothies, Pies and several other desserts. Buy Apple Granny Smith 4 pcs (Approx 450 g - 600 g) online now.",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 130.77,
+      "type": 3,
+      "brand": 0
+    },
+    {
+      "id": 61,
+      "title": "Indian Litchi (Pack) (Approx 450 g - 500 g)",
+      "cost": 199,
+      "discount": 49,
+      "image": "https://www.jiomart.com/images/product/420x420/590318011/indian-litchi-pack-approx-450-g-500-g-0-20210521.jpg",
+      "feature": "Packed With nutrients",
+      "originCountry": "India",
+      "description": "Known for their sweet and flowery flavor, Litchi is typically eaten fresh and sometimes used in ice creams or processed into juice, wine, sherbert, and jelly. They’re a good source of several vitamins, minerals, and healthy antioxidants. They have an inedible, pink-red, leathery skin, which is removed before consumption. The flesh is white and surrounds a dark seed in the center. So, go ahead, buy Indian Litchi (Pack) (Approx 450 g - 500 g) online now!      ",
+      "cat": "fresh-fruits",
+      "mainCat": "fruits-vegetables",
+      "mrp": 390.2,
+      "type": 3,
+      "brand": 0
+    },
+    {
+      "id": 62,
+      "title": "Sweet Potato 500 g",
+      "cost": 40,
+      "discount": "",
+      "image": "https://www.jiomart.com/images/product/420x420/590000138/sweet-potato-500-g-0-20201118.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Potato is a root vegetable and the most versatile of all. It is widely used across Indian kitchens paired with numerous other vegetables for preparation of several delicacies. Be it Brinjal, Cauliflower, Tomato, Onion or be it Soyabean Chunks or the Spinach clan- Potatoes goes with all for delicious cuisines. Potatoes are rich in Carbohydrates, Dietary Fiber, Calcium and Iron. Buy Sweet Potato online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": "",
+      "type": 14,
+      "brand": 0
+    },
+    {
+      "id": 63,
+      "title": "Lauki (Bottle Gourd) 1 kg",
+      "cost": 32,
+      "discount": 2,
+      "image": "https://www.jiomart.com/images/product/420x420/590000174/lauki-bottle-gourd-1-kg-0-20201118.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Gourds are Protein rich green vegetables that are also very rich in Vitamin C, Fibres, Carbohydrates, Riboflavin and Zinc. It cools your body, helps in weight loss, eradicates Uniraty Tract Infection, relieves stress and keeps your heart healthy. Add it to your diet if you have kids at home as it promotes healthy body growth. Buy Lauki (Bottle Gourd) 1 kg online now.      ",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 32.65,
+      "type": 1,
+      "brand": 0
+    },
+    {
+      "id": 64,
+      "title": "Carrot Orange - 500 g",
+      "cost": 27,
+      "discount": 7,
+      "image": "https://www.jiomart.com/images/product/420x420/590003546/carrot-regular-500-g-0-20201118.jpg",
+      "feature": "Good source of Fiber and Vitamin K",
+      "originCountry": "India",
+      "description": "Carrot is a root vegetable which is considered as the ideal health food. It is a rich source of Beta Carotene, Vitamin K1, Fiber, Potassium and Antioxidants. It improves eyesight, reduces risks of Cancer and Constipation, lowers Blood Cholesterol and hels in weight loss. Buy Carrot Orange 500 g online now",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 29.03,
+      "type": 10,
+      "brand": 0
+    },
+    {
+      "id": 65,
+      "title": "Onion-1 kg",
+      "cost": 32,
+      "discount": 2,
+      "image": "https://www.jiomart.com/images/product/420x420/590003515/onion-1-kg-0-20200710.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Onion is an antioxidant rich vegetable that is also versatile and is used in different food preparations in India and across the world. Onions are anti-inflammatory, strengthens the immune system, prevents Cancer and improves digestion. It is high on Sulphur, Folic Acid and Fibers. Add it to your everyday food habits and stay healthy. Buy Onion (KG) online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 32.65,
+      "type": 4,
+      "brand": 0
+    },
+    {
+      "id": 66,
+      "title": "Bhendi (Okra) per 500 g",
+      "cost": 29,
+      "discount": 4,
+      "image": "https://www.jiomart.com/images/product/420x420/590003550/bhendi-okra-per-500-g-0-20201118.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Okra, commonly known as Bhindi or Lady Finger, is a very nutritious green vegetable. It is rich in Fiber, Antioxidants, Folate, Magnesium, Vitamin A, C and K1. It is beneficial for controlling blood sugar, heart patients and pregnant women. It is used in preparing spicy curry or is consumed slightly sauted with spices. Buy Bhindi (Okra) 1 kg online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 30.21,
+      "type": 13,
+      "brand": 0
+    },
+    {
+      "id": 67,
+      "title": "Beetroot 500 g",
+      "cost": 22,
+      "discount": 2,
+      "image": "https://www.jiomart.com/images/product/420x420/590003540/beetroot-500-g-0-20200710.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Beetroot is the taproot portion of a beet plant. It is a very popular superfood with a wide range of nutritional benefits. Beet or Beetroot juice improves athletic performance, Increase blood flow and reduce blood pressure. It also improves digestion and lowers the risks of diabetes. Buy Beetroot (Chukandar) 1 Kg online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 22.45,
+      "type": 16,
+      "brand": 0
+    },
+    {
+      "id": 68,
+      "title": "Drumstick (Each) (Approx. 25 g - 100 g)",
+      "cost": 7,
+      "discount": "",
+      "image": "https://www.jiomart.com/images/product/420x420/590000128/drumstick-each-approx-25-g-100-g-0-20210326.jpg",
+      "feature": "Rich source of vitamins and minerals",
+      "originCountry": "India",
+      "description": "Drumsticks are counted as one of those rare plants whose seeds, flowers, stems and leaves- all are edible and extremely nutritious. Owing to its high nutritional value, it is also referred as a Super Plant. It closely depicts a Drum Stick- the one that is used for playing Drums and that's where it gets its name from. It improves digestion, boosts immunity and is extremely helpful in body growth. Buy Drumstick (Each) (Approx. 25 g - 100 g) online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": "",
+      "type": 12,
+      "brand": 0
+    },
+    {
+      "id": 69,
+      "title": "Potato per kg",
+      "cost": 22,
+      "discount": 2,
+      "image": "https://www.jiomart.com/images/product/420x420/590003516/potato-per-kg-0-20200710.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Potato is a root vegetable and the most versatile of all. It is widely used across Indian kitchens paired with numerous other vegetables for preparation of several delicacies. Be it Brinjal, Cauliflower, Tomato, Onion or be it Soyabean Chunks or the Spinach clan- Potatoes goes with all for delicious cuisines. Potatoes are rich in Carbohydrates, Dietary Fiber, Calcium and Iron. Buy Potato (KG) online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 22.45,
+      "type": 14,
+      "brand": 0
+    },
+    {
+      "id": 70,
+      "title": "Coconut 1 pc (Approx 350 g - 600 g)",
+      "cost": 35,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/590000086/coconut-1-pc-0-20201118.jpg",
+      "feature": "Packed With Nutrients",
+      "originCountry": "India",
+      "description": "Coconut is another power packed fruit rich in nutrients that originates from the Tropical region. It is consumed globally in different forms like Coconut Milk, Coconut Water, Coconut Oil etc. Coconut Oil is medically recommended for neutralizing Cholesterol levels. There's a raw white meat inside the Coconut shell which is known as the Kernel. The Kernel is the edible, sweet tasting part of the Coconut which has firm texture and is delicious. Coconut Milk and Cream is made by cold pressing the grated raw meat. Dried Kernels can be grated and stored for cooking or baking. It can also be made into flour from which numerous Indian desserts are prepared. Buy Coconut 1 pc (Approx 350 g - 600 g) online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 36.84,
+      "type": 16,
+      "brand": 0
+    },
+    {
+      "id": 71,
+      "title": "Onion 5 kg (Pack)",
+      "cost": 155,
+      "discount": 15,
+      "image": "https://www.jiomart.com/images/product/420x420/590002136/onion-5-kg-pack-0-20201118.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Onion is an antioxidant rich vegetable that is also versatile and is used in different food preparations in India and across the world. Onions are anti-inflammatory, strengthens the immune system, prevents Cancer and improves digestion. It is high on Sulphur, Folic Acid and Fibers. Add it to your everyday food habits and stay healthy. Buy Onion 5 kg (Pack) online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 182.35,
+      "type": 4,
+      "brand": 0
+    },
+    {
+      "id": 72,
+      "title": "Cucumber 500 g",
+      "cost": 27,
+      "discount": 7,
+      "image": "https://www.jiomart.com/images/product/420x420/590003548/cucumber-500-g-0-20200710.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Ninety percent of Cucumber comprises of Water, which is an essential part of the human body. It keeps you hydrated and healthy. Cucumber are also rich in Antioxidants, Potassium, Magnesium, Manganese and so much more. With just 16 caories in a cup full of Cucumber, it is also great for you if you are trying to lose weight. You can preserve it as a Pickle or add it in your Salad. Buy White Cucumber (Desi Kheera) 1 Kg online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 29.03,
+      "type": 11,
+      "brand": 0
+    },
+    {
+      "id": 73,
+      "title": "Tomato per kg",
+      "cost": 25,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/590003517/tomato-per-kg-0-20200710.jpg",
+      "feature": "Rich in nutrients      ",
+      "originCountry": "India",
+      "description": "Despite belonging from the Fruits family, Tomatoes are widely perceived as a vegetable and are used in several veggie preparations. Tomatoes are a rich source of Potassium, Folate, Lycopene and Vitamin C. It is also considered beneficial for skin health. Increase tomato intake for impoved heart health, Cancer prevention and protection from Sun damage. Buy Tomato (Tamatar) 1 Kg online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 26.32,
+      "type": 15,
+      "brand": 0
+    },
+    {
+      "id": 74,
+      "title": "Sprouted Beans 1 Pack (Approx 200 g - 250 g)",
+      "cost": 32,
+      "discount": 2,
+      "image": "https://www.jiomart.com/images/product/420x420/590000253/sprouted-beans-1-pack-0-20201118.jpg",
+      "feature": "Packed With Nutrients",
+      "originCountry": "India",
+      "description": "Beans are the most inexpensive, easy to cook yet healthy edibles of all. They are high in Fibres, Proteins and Vitamins. There are countless Indian recipes prepared with Beans in it. You can add them to your diet and increase your nutrition intake. Buy Sprouted Beans 1 Pack (Approx 200 g - 250 g) online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 32.65,
+      "type": 6,
+      "brand": 0
+    },
+    {
+      "id": 75,
+      "title": "Cabbage per Pc (Approx 600 g - 1000 g)",
+      "cost": 24,
+      "discount": 4,
+      "image": "https://www.jiomart.com/images/product/420x420/590003538/cabbage-per-pc-0-20200710.jpg",
+      "feature": "Packed with nutrients",
+      "originCountry": "India",
+      "description": "Cabagge is a leafy green, purple or white plant that grows as an anuual vegetable crop. It is rich in Protein, Iron, Vitamin K, Fiber and Calories. It comes in a variety of shapes and colour and can be either crinkles or smooth. Buy Cabbage per Pc (Approx 600 g - 1000 g) online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 25,
+      "type": 8,
+      "brand": 0
+    },
+    {
+      "id": 76,
+      "title": "Bitter Gourd - 500 g",
+      "cost": 34,
+      "discount": 4,
+      "image": "https://www.jiomart.com/images/product/420x420/590003541/bitter-gourd-500-g-0-20201118.jpg",
+      "feature": "Rich In Nutrients",
+      "originCountry": "India",
+      "description": "Gourds are Protein rich green vegetables that are also very rich in Vitamin C, Fibres, Carbohydrates, Riboflavin and Zinc. It cools your body, helps in weight loss, eradicates Uniraty Tract Infection, relieves stress and keeps your heart healthy. Add it to your diet if you have kids at home as it promotes healthy body growth. Buy Bitter Gourd 500 g online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 35.42,
+      "type": 1,
+      "brand": 0
+    },
+    {
+      "id": 77,
+      "title": "Ridge Gourd 500 g",
+      "cost": 64.5,
+      "discount": 4.5,
+      "image": "https://www.jiomart.com/images/product/420x420/590003543/ridge-gourd-1-kg-0-20200710.jpg",
+      "feature": "Rich in  nutrients",
+      "originCountry": "India",
+      "description": "Gourds are Protein rich green vegetables that are also very rich in Vitamin C, Fibres, Carbohydrates, Riboflavin and Zinc. It cools your body, helps in weight loss, eradicates Uniraty Tract Infection, relieves stress and keeps your heart healthy. Add it to your diet if you have kids at home as it promotes healthy body growth. Buy Ridge Gourd (Turaii) online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 67.54,
+      "type": 1,
+      "brand": 0
+    },
+    {
+      "id": 78,
+      "title": "Brinjal Nagpure 500 g (Pack)",
+      "cost": 25,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/590003545/brinjal-nagpure-500-g-pack-0-20201118.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Also known as Eggplant, Brinjals are full of Energy and Carbohydrates. It is used in a lot of vegetable curry preparations. It also contains Manganese, Vitamins, Fiber and Magnesium. Buy Brinjal Nagpure 1 kg online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 26.32,
+      "type": 7,
+      "brand": 0
+    },
+    {
+      "id": 79,
+      "title": "Cluster Beans 500 g",
+      "cost": 40,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/590003547/cluster-beans-500-g-0-20201118.jpg",
+      "feature": "Rich in nutrients",
+      "originCountry": "India",
+      "description": "Beans are the most inexpensive, easy to cook yet healthy edibles of all. They are high in Fibres, Proteins and Vitamins. There are countless Indian recipes prepared with Beans in it. You can add them to your diet and increase your nutrition intake. Buy Cluster Beans 1 kg online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 42.11,
+      "type": 6,
+      "brand": 0
+    },
+    {
+      "id": 80,
+      "title": "Coccinia-500 g",
+      "cost": 25,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/590003556/kundri-coccinia-500-g-0-20201118.jpg",
+      "feature": "Packed With nutrients",
+      "originCountry": "India",
+      "description": "Also known as Scralet Gourds, Coccinia is a Protein rich green vegetable that's also very rich in Vitamin C, Fibres, Carbohydrates, Riboflavin and Zinc. It cools your body, helps in weight loss, eradicates Uniraty Tract Infection, relieves stress and keeps your heart healthy. Add it to your diet if you have kids at home as it promotes healthy body growth. Buy Coccinia-500 g online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": 26.32,
+      "type": 16,
+      "brand": 0
+    },
+    {
+      "id": 81,
+      "title": "Coriander Bunch (Approx 50 g - 200 g)",
+      "cost": 15,
+      "discount": "",
+      "image": "https://www.jiomart.com/images/product/420x420/590004475/coriander-per-bunch-0-20201118.jpg",
+      "feature": "Packed With nutrients",
+      "originCountry": "India",
+      "description": "If you are into dressing your food well, Coriander must top your grocery list. Coriander not just make the food look appealing but also adds a distinct flavour to the food. It is widely used for preparations of sides, chutneys and sauces too. Buy Coriander Bunch (Approx 50 g - 200 g) online now.",
+      "cat": "fresh-vegetables",
+      "mainCat": "fruits-vegetables",
+      "mrp": "",
+      "type": 16,
+      "brand": 0
+    },
+    {
+      "id": 82,
+      "title": "Aashirvaad Whole Wheat Atta 10 kg",
+      "cost": 450,
+      "discount": 71,
+      "image": "https://www.jiomart.com/images/product/420x420/490000041/aashirvaad-whole-wheat-atta-10-kg-0-20210604.jpg",
+      "feature": "No chemical fertilizers",
+      "originCountry": "India",
+      "description": "Aashirvaad Whole Wheat Atta provides the goodness of health in every bite. This product incorporates many benefits of wheat and lets your body maintain a nutrient balance. It is made of nutritious wheat grains. Also, it has a sweet taste that gives you fuller and softer rotis, every single time. Buy Aashirvaad Whole Wheat Atta online now.",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 1551.72,
+      "type": 2,
+      "brand": 16
+    },
+    {
+      "id": 83,
+      "title": "Aashirvaad Whole Wheat Atta 5 kg",
+      "cost": 245,
+      "discount": 35,
+      "image": "https://www.jiomart.com/images/product/150x150/490000038/aashirvaad-whole-wheat-atta-5-kg-0-20210604.jpg",
+      "feature": "No chemical fertilizers",
+      "originCountry": "India",
+      "description": "Aashirvaad Whole Wheat Atta is made from the choicest grains. It is heavy on the palm, golden amber in colour and hard to bite. It is carefully ground using the modern chakki grinding process for the perfect balance of colour, taste and nutrition which also ensures that this atta contains 0% maida. Buy Aashirvaad Whole Wheat Atta online today.",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 376.92,
+      "type": 2,
+      "brand": 16
+    },
+    {
+      "id": 84,
+      "title": "Chakki Atta 5 kg",
+      "cost": 210,
+      "discount": 35,
+      "image": "https://www.jiomart.com/images/product/420x420/491349659/chakki-atta-5-kg-0-20210301.jpg",
+      "feature": "No chemical fertilizers",
+      "originCountry": "India",
+      "description": "Chakki Atta is freshly made from the choicest grains. It is carefully ground using modern chakki technique. The taste and nutrition ensure that this Atta contains 0% Maida and it gives you softer rotis for a long time. Buy Chakki Atta online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 323.08,
+      "type": 2,
+      "brand": 28
+    },
+    {
+      "id": 85,
+      "title": "Good Life MP Wheat Chakki Atta 5 kg",
+      "cost": 225,
+      "discount": 36,
+      "image": "https://www.jiomart.com/images/product/420x420/491458272/good-life-mp-wheat-chakki-atta-5-kg-0-20201117.jpg",
+      "feature": "100% whole wheat chapati flour",
+      "originCountry": "India",
+      "description": "Good Life MP Wheat Chakki Atta is made from the choicest grains. It is heavy on the palm, golden amber in colour and hard to bite. It is carefully ground using modern chakki grinding process for the perfect balance of colour, taste and nutrition which also ensures that atta contains 0% maida. The dough made from this atta absorbs more water, hence rotis remain softer for longer. Buy Good Life MP Wheat Chakki Atta online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 351.56,
+      "type": 2,
+      "brand": 13
+    },
+    {
+      "id": 86,
+      "title": "Good Life MP Wheat Chakki Atta 10 kg",
+      "cost": 400,
+      "discount": 75,
+      "image": "https://www.jiomart.com/images/product/420x420/491458273/good-life-mp-wheat-chakki-atta-10-kg-0-20201117.jpg",
+      "feature": "Consistent in taste, aroma and quality",
+      "originCountry": "India",
+      "description": "Now get the goodness of health in every bite with Good Life MP Wheat Chakki Atta. This product incorporates the many benefits of Wheat and lets your body maintain a nutrient balance. It is made of nutritious wheat grains. Also, it has a sweet and aromatic taste that gives you fuller and softer rotis, every single time. Buy Good Life MP Wheat Chakki Atta online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 1600,
+      "type": 2,
+      "brand": 13
+    },
+    {
+      "id": 87,
+      "title": "Nature Fresh Sampoorna Chakki Whole Wheat Atta 10 kg",
+      "cost": 450,
+      "discount": 105,
+      "image": "https://www.jiomart.com/images/product/420x420/491082049/nature-fresh-sampoorna-chakki-whole-wheat-atta-10-kg-0-20201207.jpg",
+      "feature": "100% whole wheat chapati flour",
+      "originCountry": "India",
+      "description": "Nature Fresh Sampoorna Chakki Whole Wheat Atta is fortified with Iron and Vitamins. It is one of the most commonly used ingredients in Indian kitchens. It goes a long way in adding health benefits to your lifestyle. Buy Nature Fresh Sampoorna Chakki Whole Wheat Atta online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": -9000,
+      "type": 2,
+      "brand": 19
+    },
+    {
+      "id": 88,
+      "title": "Maida 1 kg",
+      "cost": 80,
+      "discount": 45,
+      "image": "https://www.jiomart.com/images/product/420x420/491349662/maida-1-kg-0-20210521.jpg",
+      "feature": "Hygienically packed",
+      "originCountry": "India",
+      "description": "Maida is used for both desserts and savoury items. It is a self-rising flour and is suited for making cakes, pastries and other baking items. Besides this, you can also use it for making paratha, puris and other forms of bread too. Buy Maida online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 145.45,
+      "type": 7,
+      "brand": 28
+    },
+    {
+      "id": 89,
+      "title": "Maida 500 g",
+      "cost": 40,
+      "discount": 22.5,
+      "image": "https://www.jiomart.com/images/product/420x420/491349661/maida-500-g-0-20210521.jpg",
+      "feature": "Consistent in taste and quality",
+      "originCountry": "India",
+      "description": "Maida is used for both desserts and savoury items. It is a self-rising flour and is suited for making cakes, pastries and other baking items. Besides this, you can also use it for making paratha, puris and other forms of bread too. Buy Maida online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 51.61,
+      "type": 7,
+      "brand": 28
+    },
+    {
+      "id": 90,
+      "title": "Rawa 1 kg",
+      "cost": 86,
+      "discount": 46,
+      "image": "https://www.jiomart.com/images/product/420x420/491349663/rawa-1-kg-0-20210521.jpg",
+      "feature": "Highly nutritious and rich in fibre      ",
+      "originCountry": "India",
+      "description": "Rawa, more popularly known as Sooji, is an important ingredient used in every Indian kitchen. Right from the delicious sooji ka halwa to a nutritious Upma, sooji can instantly take care of your hunger and save your day. Buy Rawa online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 159.26,
+      "type": 3,
+      "brand": 28
+    },
+    {
+      "id": 91,
+      "title": "Rawa 500 g",
+      "cost": 43,
+      "discount": 23,
+      "image": "https://www.jiomart.com/images/product/420x420/491349664/rawa-500-g-0-20210521.jpg",
+      "feature": "Superior quality product",
+      "originCountry": "India",
+      "description": "Rawa, more popularly known as Sooji, is an important ingredient used in every Indian kitchen. Right from the delicious sooji ka halwa to a nutritious Upma, sooji can instantly take care of your hunger and save your day. Buy Rawa online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 55.84,
+      "type": 3,
+      "brand": 28
+    },
+    {
+      "id": 92,
+      "title": "Besan 1 kg",
+      "cost": 160,
+      "discount": 86,
+      "image": "https://www.jiomart.com/images/product/420x420/491349649/besan-1-kg-0-20210521.jpg",
+      "feature": "Hygienically packed and processed",
+      "originCountry": "India",
+      "description": "Besan is one of the most commonly used ingredients in Indian kitchens. It is made by grinding Chickpea Flour and serves as an excellent source of important nutrients and fibers. Apart from adding an aromatic flavor to your food, besan goes a long way in adding health benefits to your lifestyle. Buy Besan online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 1142.86,
+      "type": 6,
+      "brand": 28
+    },
+    {
+      "id": 93,
+      "title": "Besan 500 g",
+      "cost": 80,
+      "discount": 43,
+      "image": "https://www.jiomart.com/images/product/420x420/491349648/besan-500-g-0-20210521.jpg",
+      "feature": "No chemical fertilizers",
+      "originCountry": "India",
+      "description": "Besan is one of the most commonly used ingredients in Indian kitchens. It is made by grinding Chickpea Flour and serves as an excellent source of important nutrients and fibers. Apart from adding an aromatic flavor to your food, besan goes a long way in adding health benefits to your lifestyle. Buy Besan online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 140.35,
+      "type": 6,
+      "brand": 28
+    },
+    {
+      "id": 94,
+      "title": "Good Life MP Wheat Chakki Atta 1 kg",
+      "cost": 50,
+      "discount": 11,
+      "image": "https://www.jiomart.com/images/product/420x420/491458271/good-life-mp-wheat-chakki-atta-1-kg-0-20201117.jpg",
+      "feature": "No chemical fertilizers",
+      "originCountry": "India",
+      "description": "Now get the best of health in every bite with Good Life MP Wheat Chakki Atta. This product incorporates the many benefits of Wheat and lets your body maintain a nutrient balance. It is made of nutritious wheat grains. Also, it has a sweet and aromatic taste that works together to give you fuller and softer rotis, every single time. Buy Good Life MP Wheat Chakki Atta online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 56.18,
+      "type": 2,
+      "brand": 13
+    },
+    {
+      "id": 95,
+      "title": "Uttam Superfine Maida 500 g",
+      "cost": 30,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/490022110/uttam-superfine-maida-500-g-0-20210302.jpg",
+      "feature": "Contains a pleasant aroma and taste",
+      "originCountry": "India",
+      "description": "Uttam Superfine Maida is used for making both desserts and savoury items. It is a self-rising flour and is suited for making cakes, pastries and other baking goods too. Besides this, you can also use it for making Paratha, luchi, puris and other forms of bread. Buy Uttam Superfine Maida online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 31.58,
+      "type": 7,
+      "brand": 10
+    },
+    {
+      "id": 96,
+      "title": "Uttam Suji 500 g",
+      "cost": 31,
+      "discount": 6,
+      "image": "https://www.jiomart.com/images/product/420x420/490022112/uttam-rawa-500-g-0-20210302.jpg",
+      "feature": "Consistent in taste, aroma and quality",
+      "originCountry": "India",
+      "description": "Uttam Suji commonly called as semolina is used as a batter ingredient as well as to make various other food items like upma and sheera. It is coarse in texture and made of wheat. It is a versatile ingredient and is easy to cook. Buy Uttam Suji online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 32.98,
+      "type": 3,
+      "brand": 10
+    },
+    {
+      "id": 97,
+      "title": "Good Life MP Sharbatti Atta 1 kg",
+      "cost": 55,
+      "discount": 10,
+      "image": "https://www.jiomart.com/images/product/420x420/491551198/good-life-mp-sharbatti-atta-1-kg-0-20210121.jpg",
+      "feature": "100% whole wheat chapati flour",
+      "originCountry": "India",
+      "description": "Good Life MP Sharbatti Atta is believed to be the magical blend of taste and health to provide your guests and family with wholesome goodness. Good Life MP Sharbatti Atta comes with the assurance of freshness. Processed and packed at their factories, using superior technology, it retains the nutrition and helps in making healthy and delicious meals. Buy Good Life MP Sharbatti Atta online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 61.11,
+      "type": 2,
+      "brand": 13
+    },
+    {
+      "id": 98,
+      "title": "Good Life Multigrain Atta 1 kg",
+      "cost": 58,
+      "discount": 11,
+      "image": "https://www.jiomart.com/images/product/420x420/491551200/good-life-multigrain-atta-1-kg-0-20201117.jpg",
+      "feature": "Rich in Protein and Dietary Fibre",
+      "originCountry": "India",
+      "description": "Now get the best of health in every bite with Good Life Multigrain Atta. It maintains a nutrient balance in our body. Also, it has a sweet and aromatic taste that works together to give you fuller and softer roti, every single time. Buy Good Life Multigrain Atta online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 65.17,
+      "type": 2,
+      "brand": 13
+    },
+    {
+      "id": 99,
+      "title": "Pillsbury Chakki Fresh Atta / Flour 10 kg",
+      "cost": 450,
+      "discount": 91,
+      "image": "https://www.jiomart.com/images/product/420x420/490006668/pillsbury-chakki-fresh-whole-wheat-atta-10-kg-0-20200818.jpg",
+      "feature": "No preservatives added",
+      "originCountry": "India",
+      "description": "Pillsbury Chakki Fresh Atta / Flour provides the goodness of health in every bite. This product incorporates many benefits of wheat and lets your body maintain a nutrient balance. It is made of nutritious wheat grains. Also, it has a sweet and aromatic taste that gives you fuller and softer rotis, every single time. Buy Pillsbury Chakki Fresh Atta / Flour online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 5000,
+      "type": 2,
+      "brand": 25
+    },
+    {
+      "id": 100,
+      "title": "Pillsbury Chakki Fresh Atta / Flour 5 kg",
+      "cost": 245,
+      "discount": 35,
+      "image": "https://www.jiomart.com/images/product/420x420/490000040/pillsbury-chakki-fresh-atta-flour-5-kg-0-20200818.jpg",
+      "feature": "Consistency in taste and aroma",
+      "originCountry": "India",
+      "description": "Pillsbury Chakki Fresh Atta / Flour is used in making chappatis, parathas, pasta and bread recipes. It is believed to be one of the most wholesome food items as it contains diet rich nutrients. Buy Pillsbury Chakki Fresh Atta / Flour now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 376.92,
+      "type": 2,
+      "brand": 25
+    },
+    {
+      "id": 101,
+      "title": "Brahmins Fried Rawa 1 kg",
+      "cost": 124,
+      "discount": 8,
+      "image": "https://www.jiomart.com/images/product/420x420/490329835/brahmins-fried-rawa-1-kg-0-20210302.jpg",
+      "feature": "No added chemicals, polish or colour",
+      "originCountry": "India",
+      "description": "Rava, more popularly known as Sooji, is an important ingredient used in every Indian kitchen. Right from the delicious sooji ka halwa to a nutritious Upma, sooji can instantly take care of your hunger and save your day. So go ahead and buy Brahmins Fried Rawa online now!",
+      "cat": "atta-flours-sooji",
+      "mainCat": "staples",
+      "mrp": 134.78,
+      "type": 3,
+      "brand": 6
+    },
+    {
+      "id": 102,
+      "title": "Britannia Good Day Cashew Biscuits 1 Kg",
+      "cost": 130,
+      "discount": 43,
+      "image": "https://www.jiomart.com/images/product/420x420/590116903/britannia-good-day-cashew-biscuits-1-kg-0-20210421.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Teatime calls for a tasty snack! Introducing Britannia Good Day Cashew Biscuits. These cookies are rich in cashews which also make them a delightuflly crunchy and healthy. While they go perfectly well with tea or coffee, it's enjoyable as a snack in between meals as well. The hygienic packaging further ensures that the product remains fresh for long. So go ahead and buy Britannia Good Day Cashew Biscuits online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 230,
+      "type": 4,
+      "brand": 1
+    },
+    {
+      "id": 103,
+      "title": "Britannia Good Day Cashew Biscuits 1 Kg",
+      "cost": 10,
+      "discount": 1,
+      "image": "https://www.jiomart.com/images/product/420x420/590317973/britannia-good-day-surprise-cookies-40-g-0-20210521.jpg",
+      "feature": "Perfect tea-time partner",
+      "originCountry": "India",
+      "description": "Tea-time calls for a tasty snack! Introducing Britannia Good Day Surprise Cookies. These cookies laden with chocolate chips make for an indulgent treat! While they go perfectly with tea or coffee, these cookies can be enjoyed as a snack in between meals as well. Turn your tea parties into the most happening and fun-filled ones with this little pack of goodness. Have you got your pack of Britannia Good Day Surprise Cookies online today? If not, buy it now!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 10.1,
+      "type": 4,
+      "brand": 1
+    },
+    {
+      "id": 104,
+      "title": "Britannia Marie Gold Biscuits 1 kg",
+      "cost": 120,
+      "discount": 21,
+      "image": "https://www.jiomart.com/images/product/420x420/491553852/britannia-marie-gold-biscuits-1-kg-0-20200916.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Cheers To Health At Tea Time! Tea times are incomplete without a packet of Britannia Marie Gold Biscuits. These low fat and zero cholesterol biscuits are the perfect tea time mates. By dipping a Marie Gold into a piping hot cup of tea, a special moment of vitality is savoured. Each Marie Gold biscuit is crisp and light and is packed with the goodness of Vitamins and Minerals that make for healthier teatimes. So go ahead, buy Britannia Marie Gold Biscuits online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 151.9,
+      "type": 4,
+      "brand": 1
+    },
+    {
+      "id": 105,
+      "title": "Britannia NutriChoice Hi-Fibre Digestive Biscuits 1 kg",
+      "cost": 169,
+      "discount": 45,
+      "image": "https://www.jiomart.com/images/product/420x420/491373488/britannia-nutrichoice-hi-fibre-digestive-biscuits-1-kg-0-20210416.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Give in to your hunger cravings with Britannia NutriChoice Hi-Fibre Digestive Biscuits. These biscuits are the perfect combination of health and taste. Enjoy them with your tea or coffee or as a standalone snack. These hi-fibre biscuits are prepared using the finest ingredients and the hygienic packaging ensures they remain fresh over a period of time. So go ahead, buy Britannia NutriChoice Hi-Fibre Digestive Biscuits online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 307.27,
+      "type": 3,
+      "brand": 1
+    },
+    {
+      "id": 106,
+      "title": "Britannia Good Day Cashew Cookies 100 g",
+      "cost": 20,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/491161296/britannia-good-day-cashew-cookies-100-g-0-20210416.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "It’s a smile that makes it a Good Day! The smaller joys of life that can brighten up one’s life everyday often get ignored in the pursuit of larger joys. With its tagline of “Har Cookie Mein Kayi Smiles”, Britannia Good Day presents you a tastier avatar with Britannia Good Day Cashew Cookies! With the abundance of nuts on the surface and a great new taste, the new Good Day Cashew will give its consumers more reasons to love their favourite cookie! It is crisp in texture and has a wholesome buttery taste. It is perfect for those mid-day hunger pangs and pairs best with a hot cup of tea or coffee. So what are you waiting for? Go ahead, buy Britannia Good Day Cashew Cookies online today and be assured it will act as an enabler in enjoying all those small moments in everyday life!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 21.05,
+      "type": 5,
+      "brand": 1
+    },
+    {
+      "id": 107,
+      "title": "Britannia Good Day Cashew Cookies 600 g",
+      "cost": 120,
+      "discount": 34,
+      "image": "https://www.jiomart.com/images/product/420x420/491161888/britannia-good-day-cashew-cookies-600-g-0-20210416.jpg",
+      "feature": "Rich Cashew taste,Zero Trans Fat ",
+      "originCountry": "India",
+      "description": "Give in to your sweet cravings with Britannia Good Day Cashew Cookies. These melt-in-your-mouth treats go perfectly well with tea or coffee. They are prepared using the finest ingredients and the hygienic packaging ensures that the product remains fresh over a period of time. So go ahead, buy Britannia Good Day Cashew Cookies online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 181.82,
+      "type": 5,
+      "brand": 1
+    },
+    {
+      "id": 108,
+      "title": "Britannia Good Day Cashew Cookies 200 g",
+      "cost": 40,
+      "discount": 6,
+      "image": "https://www.jiomart.com/images/product/420x420/490176188/britannia-good-day-cashew-cookies-200-g-0-20210316.jpg",
+      "feature": "Buttery and tasty,No Trans Fat",
+      "originCountry": "India",
+      "description": "It’s a smile that makes it a Good Day! The smaller joys of life that can brighten up one’s life everyday often get ignored in the pursuit of larger joys. With its tagline of “Har Cookie Mein Kayi Smiles”, Britannia Good Day presents you a tastier avatar with Britannia Good Day Cashew Cookies! With the abundance of nuts on the surface and a great new taste, the new Good Day Cashew will give its consumers more reasons to love their favourite cookie! It is crisp in texture and has a wholesome buttery taste. It is perfect for those mid-day hunger pangs and pairs best with a hot cup of tea or coffee. So what are you waiting for? Go ahead, buy Britannia Good Day Cashew Cookies online today and be assured it will act as an enabler in enjoying all those small moments in everyday life!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 42.55,
+      "type": 5,
+      "brand": 1
+    },
+    {
+      "id": 109,
+      "title": "Parle-G Gold Biscuits 1 kg",
+      "cost": 125,
+      "discount": 26,
+      "image": "https://www.jiomart.com/images/product/420x420/491335633/parle-g-gold-biscuits-1-kg-0-20201118.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Filled with the goodness of milk and wheat, Parle-G has been a source of all-round nourishment for the nation since decades. They’re crispy, they’re tasty and they’ll leave you craving for more. Parle G Biscuits have been an all-time favourite across people of all ages. It is a must-have product to enjoy fun-filled tea parties. Enjoy them with tea or as a standalone snack, the choice is yours. So wait no more. Buy your pack of Parle G Gold Biscuits online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 168.92,
+      "type": 5,
+      "brand": 19
+    },
+    {
+      "id": 110,
+      "title": "Parle Platina Hide & Seek Chocolate Chip Cookies 350 g",
+      "cost": 100,
+      "discount": 25,
+      "image": "https://www.jiomart.com/images/product/420x420/491338173/parle-platina-hide-seek-chocolate-chip-cookies-350-g-0-20201118.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Give in to your sweet cravings with Parle Platina Hide & Seek Chocolate Chip Biscuits. These biscuits are crunchy yet delicate in texture. They are a perfect accompaniment to your tea or coffee. They are prepared using the finest ingredients and its hygienic packaging ensure that it remains fresh over a long period of time. So go ahead, buy Parle Platina Hide & Seek Chocolate Chip Biscuits online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 133.33,
+      "type": 2,
+      "brand": 2
+    },
+    {
+      "id": 111,
+      "title": "Parle Krack Jack Crackers 400 g",
+      "cost": 60,
+      "discount": 6,
+      "image": "https://www.jiomart.com/images/product/420x420/491439007/parle-krack-jack-crackers-400-g-0-20210114.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Presenting Parle Krack Jack Biscuits for the fun-filled snack time. Give it a go-ahead along with tea or coffee or just munch on, when hunger kicks in between meal times. These biscuits are light, crispy and loaded with tasty condiments. Tea breaks will be much more fun now with Parle Krack Jack Biscuits. Buy Parle Krack Jack Biscuits online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 63.83,
+      "type": 6,
+      "brand": 2
+    },
+    {
+      "id": 112,
+      "title": "Britannia Vita Marie Gold Biscuits Chai Time Pack 900 g",
+      "cost": 120,
+      "discount": 21,
+      "image": "https://www.jiomart.com/images/product/420x420/590317972/britannia-vita-marie-gold-biscuits-chai-time-pack-900-g-0-20210521.jpg",
+      "feature": "Perfect tea-time partner",
+      "originCountry": "India",
+      "description": "Cheers To Health At Tea Time! Tea times are incomplete without a packet of Britannia Vita Marie Gold Biscuits. These low fat and zero cholesterol biscuits are the perfect tea time mates. By dipping a Marie Gold into a piping hot cup of tea, a special moment of vitality is savoured. With 58% cereal, milk protein and 10 essential vitamins, Vita Marie Gold are fully loaded for all who live fully loaded life. Each Marie Gold biscuit is crisp and light and is packed with the goodness of Vitamins and Minerals that makes for healthier tea times or anytime snack. So go ahead, buy Britannia Vita Marie Gold Biscuits Chai Time Pack online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 151.9,
+      "type": 4,
+      "brand": 1
+    },
+    {
+      "id": 113,
+      "title": "Parle-G Original Glucose Biscuits 250 g",
+      "cost": 20,
+      "discount": 1.4,
+      "image": "https://www.jiomart.com/images/product/420x420/490008737/parle-g-original-glucose-biscuits-250-g-0-20201016.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Parle-G Original Glucose Biscuits are filled with the goodness of milk and wheat. Parle-G has been a source of all-round nourishment for growing kids and it has also been an all-time favourite choice for years. Whatever be the occasion, it has always been around to fight the hunger pangs. So, go ahead and get your pack of Parle-G Biscuits online now!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 20.28,
+      "type": 5,
+      "brand": 19
+    },
+    {
+      "id": 114,
+      "title": "Parle Monaco Classic Regular Salted Biscuits 400 g",
+      "cost": 60,
+      "discount": 7,
+      "image": "https://www.jiomart.com/images/product/420x420/491439006/parle-monaco-classic-regular-salted-biscuits-400-g-0-20201118.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Presenting Parle Monaco Classic Regular Salted Biscuits for fun-filled snack time. Give it a go-ahead along with tea or coffee or just munch on, when hunger kicks in, in between meal times. These biscuits are light, crispy and loaded with tasty condiments. Tea breaks will be much more fun now with Parle Monaco Classic Regular Salted Biscuits. Buy it online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 64.52,
+      "type": 7,
+      "brand": 2
+    },
+    {
+      "id": 115,
+      "title": "Parle-G Original Glucose Biscuits 800 g",
+      "cost": 70,
+      "discount": 7,
+      "image": "https://www.jiomart.com/images/product/420x420/490008739/parle-g-original-glucose-biscuits-800-g-0-20210115.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Parle-G Original Glucose Biscuits are filled with the goodness of milk and wheat. Parle-G has been a source of all-round nourishment for growing kids and it has also been an all-time favourite choice for years. Whatever be the occasion, it has always been around to fight the hunger pangs. So, go ahead and get your pack of Parle-G Biscuits online now!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 75.27,
+      "type": 5,
+      "brand": 19
+    },
+    {
+      "id": 116,
+      "title": "Cadbury Oreo Chocolate Creme Biscuits 120 g",
+      "cost": 30,
+      "discount": 2.1,
+      "image": "https://www.jiomart.com/images/product/420x420/491338267/cadbury-oreo-chocolate-cream-biscuits-120-g-0-20200725.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Cadbury Oreo Chocolate Creme Biscuits bring together the rich and smooth flavours of creme filling with the bold taste of crunchy chocolate biscuits. Twist, lick and dunk an Oreo biscuit in milk to enjoy the Oreo in the best way possible. A rich, chocolatey centre with crunchy chocolate biscuits, they are the perfect treat for kids and you. Perfect for any time snacking, best enjoyed when shared! So what are you waiting for? Go ahead, buy Cadbury Oreo Chocolate Creme Biscuits online today & enjoy a super chocolaty snack with your family and friends.",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 30.64,
+      "type": 5,
+      "brand": 16
+    },
+    {
+      "id": 117,
+      "title": "Cadbury Oreo Cadbury Dipped Cookies 150 g",
+      "cost": 65,
+      "discount": 5,
+      "image": "https://www.jiomart.com/images/product/420x420/590033281/cadbury-oreo-cadbury-dipped-cookies-150-g-0-20210405.jpg",
+      "feature": "Perfect tea-time partner",
+      "originCountry": "India",
+      "description": "The new Cadbury Oreo Cadbury Dipped Cookies is the tempting combination of crunchy Oreo Cookies dipped in smooth, delicious Cadbury. In every bite, feel the rich chocolatey smoothness, the crunch of a cookie and the sweet surprise of vanilla creme sandwiched within. A heavenly combination designed to make you go â€œWOWâ€. They are perfect pack for home stocking and while you are on-the-go. Perfect for anytime snacking but best enjoyed when shared! So what are waiting for? Go ahead, buy Cadbury Oreo Cadbury Dipped Cookies online today.",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 68.42,
+      "type": 2,
+      "brand": 16
+    },
+    {
+      "id": 118,
+      "title": "Cadbury Oreo Original Vanilla Creme Biscuits 120 g",
+      "cost": 30,
+      "discount": 3,
+      "image": "https://www.jiomart.com/images/product/420x420/491338266/cadbury-oreo-original-vanilla-creme-biscuits-120-g-0-20210304.jpg",
+      "feature": "Crunchy and creamy in every bite,Made from the finest ingredients",
+      "originCountry": "India",
+      "description": "Give in to your sweet cravings with Cadbury Oreo Original Vanilla Creme Biscuits. These biscuits are crunchy yet delicate in texture. They area perfect accompaniment to your tea or coffee. These biscuits are prepared using the finest ingredients and its hygienic packaging ensures they remain fresh over a longer period. So go ahead, buy Cadbury Oreo Original Vanilla Creme Biscuits online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 30.93,
+      "type": 1,
+      "brand": 16
+    },
+    {
+      "id": 119,
+      "title": "Cadbury Oreo Original Vanilla Cream Biscuits 46.3 g",
+      "cost": 10,
+      "discount": 1,
+      "image": "https://www.jiomart.com/images/product/420x420/491070871/cadbury-oreo-original-vanilla-cream-biscuits-46-3-g-0-20210401.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Give in to your sweet cravings with Cadbury Oreo Original Vanilla Cream Biscuits. This cream biscuits have become everyone's favourite in no time. Its crunchy texture and mouth melting creamy taste will make you drool over it endlessly. Twist them, dunk them, or just plain eat them! There are so many ways to enjoy Oreo cookies. If you want to celebrate something special, this bundle of deliciousness will do the trick. So go ahead, buy Cadbury Oreo Original Vanilla Cream Biscuits online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 10.1,
+      "type": 1,
+      "brand": 16
+    },
+    {
+      "id": 120,
+      "title": "Britannia Good Day Choco-Chips Biscuits 400 g",
+      "cost": 120,
+      "discount": 50,
+      "image": "https://www.jiomart.com/images/product/420x420/590032794/britannia-good-day-choco-chips-biscuits-400-g-0-20200819.jpg",
+      "feature": "Perfect tea-time partner",
+      "originCountry": "India",
+      "description": "It’s a smile that makes it a Good Day! The smaller joys of life that can brighten up one’s life everyday often get ignored in the pursuit of larger joys. With its tagline of “Har Cookie Mein Kayi Smiles”, Britannia Good Day presents you a tastier avatar with Britannia Good Day Choco-chip Cookies! Filled with chocolate chips that burst out of the surface, the Good Day Choco-chip Cookie promises to satisfy the chocoholic in you. The flavoursome Choco-chips are blended into the crunchy Cookie in a manner that is sure to give you a mouthful of chocolate with every bite you take. So what are you waiting for? Go ahead, buy Britannia Good Day Chunkies Chocolate Chip Cookies online today!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 240,
+      "type": 5,
+      "brand": 1
+    },
+    {
+      "id": 121,
+      "title": "Britannia Milk Bikis Biscuits 500 g",
+      "cost": 60,
+      "discount": 20,
+      "image": "https://www.jiomart.com/images/product/420x420/491587134/britannia-milk-bikis-biscuits-500-g-0-20200819.jpg",
+      "feature": "Made from the finest quality ingredients",
+      "originCountry": "India",
+      "description": "Rich with the goodness of milk, Britannia Milk Bikis are crunchy biscuits baked to perfection. Mothers need not worry about the daily breakfast duel with their little tots over milk, as 4 Milk Bikis Biscuits are equal to an energy of a glass of milk! Each scrumptious bite is enriched with nutrients like calcium and vitamins. So every delicious bite of crunchy Milk Bikis is a little something today, for your child's better tomorrow. So go ahead, buy Britannia Milk Bikis Biscuits online now!",
+      "cat": "biscuits-cookies",
+      "mainCat": "snacks-branded-foods",
+      "mrp": 75,
+      "type": 5,
+      "brand": 1
+    }
+  ]
+}
